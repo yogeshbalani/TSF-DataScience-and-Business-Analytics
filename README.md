@@ -13,3 +13,17 @@
 ### Dataset:
    - http://bit.ly/w-data
 ----
+## Task 2: [Prediction using Unsupervised  ML]
+ (https://github.com/yogeshbalani/TSF-DataScience-and-Business-Analytics/blob/main/Task%2002.ipynb)
+ ----
+### To Do: 
+  - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+----   
+### Language used:
+   - Python
+### Algorithm used: 
+   - K-Mean
+----
+### Dataset:
+   - https://bit.ly/3kXTdox
+----

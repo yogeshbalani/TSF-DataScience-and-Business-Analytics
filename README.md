@@ -28,7 +28,7 @@
    - https://bit.ly/3kXTdox
 ----
 ## Task 3: [Exploratory Data Analysis - Retail]
- (https://github.com/yogeshbalani/TSF-DataScience-and-Business-Analytics/blob/main/Task%2002.ipynb)
+ (https://github.com/yogeshbalani/TSF-DataScience-and-Business-Analytics/blob/main/Task03.ipynb)
  ----
 ### To Do: 
   - Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’

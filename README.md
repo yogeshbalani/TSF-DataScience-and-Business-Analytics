@@ -55,3 +55,32 @@
 ### Dataset:
    - https://bit.ly/2TK5Xn5
 ----
+## Task 5 : [Exploratory Data Analysis - Sports]
+ (https://github.com/yogeshbalani/TSF-DataScience-and-Business-Analytics/blob/main/Task%2005.ipynb)
+ ----
+### To Do: 
+  - Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
+  - As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
+  - Suggest teams or players a company should endorse for its products.
+----   
+### Language used:
+   - Python
+----
+### Dataset:
+   - https://bit.ly/34SRn3b
+----
+## Task 6: [Prediction Decision Tree Algorithm]
+ (https://github.com/yogeshbalani/TSF-DataScience-and-Business-Analytics/blob/main/Task%2006.ipynb)
+ ----
+### To Do: 
+  - Create the Decision Tree classifier and visualize it graphically.
+  - The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+----   
+### Language used:
+   - Python
+### Algorithm used: 
+   -  Decision Tree Algorithm
+----
+### Dataset:
+   - https://bit.ly/3kXTdox
+----
